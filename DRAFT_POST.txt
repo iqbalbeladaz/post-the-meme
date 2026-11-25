@@ -1,0 +1,17 @@
+POST THIS FROM @miqbalzaidan ON X, WITH meme.png ATTACHED.
+Post before the deadline: 26 Nov 2026 16:20 WIB.
+Keep the post up and the account public until the results are out.
+Do NOT change the mention or the play code. Exact text (133 characters):
+
+my agent said 'just one bounty' 😌
+3 AM: 5 bounties in, top of the leaderboard, paid in USDC
+@_myronera makefun-envelope-festival-taco
+
+After posting, copy the post link (Share -> Copy link) and put it in POST.json:
+{"url": "https://x.com/miqbalzaidan/status/<id>"}
+Then the entry can be submitted.
+
+Spare play codes (any one passes; code 0 above is the one used):
+- makefun-curtain-trowel-hammer
+- makefun-cedar-pecan-island
+- makefun-beacon-paddock-canteen
